@@ -30,4 +30,10 @@ There is one particularly bright spot in the data at the country level, China. T
 
 China and the United States are of course very large countries in total land area, so when we look at the largest percent change in forest area from 1990 to 2016, we aren’t surprised to find a much smaller country listed at the top. Iceland increased in forest area by 213.66% from 1990 to 2016. 
 
+#### B. Largest Concerns
+Which countries are seeing deforestation to the largest degree? We can answer this question in two ways. First, we can look at the absolute square kilometer decrease in forest area from 1990 to 2016. The following 5 countries had the largest decrease in forest area over the time period under consideration:
+
+Table 3.1: Top 5 Amount Decrease in Forest Area by Country, 1990 & 2016:
+
+
 ### 4. 
