@@ -47,6 +47,12 @@ From the above analysis, we see that Nigeria is the only country that ranks in t
 
 #### C. Quartiles
 Table 3.3: Count of Countries Grouped by Forestation Percent Quartiles, 2016:
+![quartiles](https://github.com/LauraHaq/Deforestation_Exploration/blob/main/quartiles.png)
+The largest number of countries in 2016 were found in the first quartile.
+
+There were 9 countries in the top quartile in 2016. These are countries with a very high percentage of their land area designated as forest. The following is a list of countries and their respective forest land, denoted as a percentage.
+
+Table 3.4: Top Quartile Countries, 2016:
 
 
 
