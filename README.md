@@ -19,7 +19,7 @@ In 2016, the percentage of the total land area of the world designated as forest
 In 1990, the percentage of the total land area of the world designated as forested was 32.42%. The region with the highest relative forestation was Latin America & Caribbean, with 51.03%, and the region with the lowest relative forestation was the Middle East & North Africa, with 1.78% forestation.
 
 __Table 2.1: Percent Forest Area by Region, 1990 & 2016__
-![region_table](https://github.com/LauraHaq/Deforestation_Exploration/blob/main/percent_forest_area_by_region.png)
+![region_table](https://github.com/LauraHaq/Deforestation_Exploration/blob/main/images/percent_forest_area_by_region.png)
 
 
 The only regions of the world that decreased in percent forest area from 1990 to 2016 were Sub-Saharan Africa (dropped from 30.67%  to 28.79%) and Latin America & Caribbean 51.03% to 46.16%). All other regions actually increased in forest area over this time period. However, the drop in forest area in the two aforementioned regions was so large, the percent forest area of the world decreased over this time period from 32.42% to 31.38%. 
@@ -33,28 +33,28 @@ China and the United States are of course very large countries in total land are
 #### B. Largest Concerns
 Which countries are seeing deforestation to the largest degree? We can answer this question in two ways. First, we can look at the absolute square kilometer decrease in forest area from 1990 to 2016. The following 5 countries had the largest decrease in forest area over the time period under consideration:
 
-Table 3.1: Top 5 Amount Decrease in Forest Area by Country, 1990 & 2016:
-![decrease_time](https://github.com/LauraHaq/Deforestation_Exploration/blob/main/percent_forest_area_by_region.png)
+__Table 3.1: Top 5 Amount Decrease in Forest Area by Country, 1990 & 2016:__
+![decrease_time](https://github.com/LauraHaq/Deforestation_Exploration/blob/main/images/percent_forest_area_by_region.png)
 
 The second way to consider which countries are of concern is to analyze the data by percent decrease.
 
-Table 3.2: Top 5 Percent Decrease in Forest Area by Country, 1990 & 2016:
-![decrease_percent](https://github.com/LauraHaq/Deforestation_Exploration/blob/main/largest_concern_percent.png)
+__Table 3.2: Top 5 Percent Decrease in Forest Area by Country, 1990 & 2016:__
+![decrease_percent](https://github.com/LauraHaq/Deforestation_Exploration/blob/main/images/largest_concern_percent.png)
 
 When we consider countries that decreased in forest area percentage the most between 1990 and 2016, we find that four of the top 5 countries on the list are in the region of Sub-Saharan Africa. The countries are Togo, Nigeria, Uganda and Mauritania. The 5th country on the list is Honduras, which is in the Latin America & Caribbean region. 
 
 From the above analysis, we see that Nigeria is the only country that ranks in the top 5 both in terms of absolute square kilometer decrease in the forest as well as the percent decrease in forest area from 1990 to 2016. Therefore, this country has a significant opportunity ahead to stop the decline and hopefully spearhead remedial efforts.
 
 #### C. Quartiles
-Table 3.3: Count of Countries Grouped by Forestation Percent Quartiles, 2016:
-![quartiles](https://github.com/LauraHaq/Deforestation_Exploration/blob/main/quartiles.png)
+__Table 3.3: Count of Countries Grouped by Forestation Percent Quartiles, 2016:__
+![quartiles](https://github.com/LauraHaq/Deforestation_Exploration/blob/main/images/quartiles.png)                                             
 The largest number of countries in 2016 were found in the first quartile.
 
 There were 9 countries in the top quartile in 2016. These are countries with a very high percentage of their land area designated as forest. The following is a list of countries and their respective forest land, denoted as a percentage.
 
-Table 3.4: Top Quartile Countries, 2016:
+__Table 3.4: Top Quartile Countries, 2016:__
 
-![top_quartiles](https://github.com/LauraHaq/Deforestation_Exploration/blob/main/top_quartiles.png)
+![top_quartiles](https://github.com/LauraHaq/Deforestation_Exploration/blob/main/images/top_quartiles.png)
 
 
 ### 4. RECOMMENDATIONS
@@ -62,4 +62,7 @@ Write out a set of recommendations as an analyst on the ForestQuery team.
 - What have you learned from the World Band data?
 - Which countries should we focus on over others?
 
+![recommendations](https://github.com/LauraHaq/Deforestation_Exploration/blob/main/images/Recommendations.png)
+
+The world lost just over 1% of forest area totaling 1,324,449 km2 even though most regions have increased forest area. After considering the income groups of these countries, and the number of countries within a region that lost land by km2 I would recommend Forestquery to provide support to Nigeria, Tanzania, Zimbabwe and Cong, Dem. Rep that would give focus on the region of Sub-Saharan Africa. This region accounted for over half of the total loss of forest land of the world losing 787,645.57 km² of forests and specifically these four countries represent over 1/3 of the region with a combined loss of 292,9770 km². That would make up the land lost by the world if all of this region changes course the world would see an increase of this much in the future.
 
