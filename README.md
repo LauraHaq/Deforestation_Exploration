@@ -57,7 +57,9 @@ Table 3.4: Top Quartile Countries, 2016:
 ![top_quartiles](https://github.com/LauraHaq/Deforestation_Exploration/blob/main/top_quartiles.png)
 
 
-4. RECOMMENDATIONS
-Write out a set of recommendations as an analyst on the ForestQuery team. 
-●	What have you learned from the World Bank data? 
-●	Which countries should we focus on over others?
+### 4. RECOMMENDATIONS
+Write out a set of recommendations as an analyst on the ForestQuery team.
+- What have you learned from the World Band data?
+- Which countries should we focus on over others?
+
+
