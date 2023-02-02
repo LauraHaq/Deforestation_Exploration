@@ -58,10 +58,7 @@ __Table 3.4: Top Quartile Countries, 2016:__
 
 
 ### 4. RECOMMENDATIONS
-Write out a set of recommendations as an analyst on the ForestQuery team.
-- What have you learned from the World Band data?
-- Which countries should we focus on over others?
-
+Written recommendations for the ForestQuery team.
 ![recommendations](https://github.com/LauraHaq/Deforestation_Exploration/blob/main/images/Recommendations.png)
 
 The world lost just over 1% of forest area totaling 1,324,449 km2 even though most regions have increased forest area. After considering the income groups of these countries, and the number of countries within a region that lost land by km2 I would recommend Forestquery to provide support to Nigeria, Tanzania, Zimbabwe and Cong, Dem. Rep that would give focus on the region of Sub-Saharan Africa. This region accounted for over half of the total loss of forest land of the world losing 787,645.57 km² of forests and specifically these four countries represent over 1/3 of the region with a combined loss of 292,9770 km². That would make up the land lost by the world if all of this region changes course the world would see an increase of this much in the future.
